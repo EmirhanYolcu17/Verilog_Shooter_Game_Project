@@ -74,7 +74,7 @@ The design consists of multiple Verilog modules, each responsible for a distinct
 ---
 
 ## 🧾 Evaluation & Grade
-This project received **112 / 100 points** — the highest in the class.  
+This project received **112 / 100 points** 
 The base term project score was **100**, and we earned an additional **12 bonus points** out of 15 for design quality, functionality, and code modularity.
 
 ---
