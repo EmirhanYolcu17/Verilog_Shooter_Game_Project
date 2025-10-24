@@ -15,6 +15,20 @@ All game logic — including object rendering, score tracking, collision detecti
 
 ---
 
+## 🎥 Project Video Demo
+Check out the demonstration of our FPGA-based isometric shooter game in action:
+
+🎬 [**Watch the Project Demo on YouTube**](https://youtu.be/f-9jpSeisDM)
+
+---
+
+## 📄 Full Report
+For detailed explanations, diagrams, and Verilog code structure, you can access the full project documentation here:
+
+📥 [**Download the Full Project Report (PDF)**](314_Shooter_Project_Report.pdf)
+
+---
+
 ## 🧩 System Architecture
 The design consists of multiple Verilog modules, each responsible for a distinct functionality:
 - **Shooter Module:** Core gameplay logic — enemy dynamics, shooting, collisions, and scoring  
