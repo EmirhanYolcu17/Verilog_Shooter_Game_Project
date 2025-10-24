@@ -2,7 +2,7 @@
 
 **EE314 — Digital Electronics Laboratory, Spring 2024**  
 **Middle East Technical University (METU)**  
-**Group 48 — Emirhan Yolcu, Bora Özkan, Alkım Bozkurt**
+**Emirhan Yolcu, Bora Özkan, Alkım Bozkurt**
 
 ---
 
@@ -77,6 +77,4 @@ The design consists of multiple Verilog modules, each responsible for a distinct
 This project received **112 / 100 points** 
 The base term project score was **100**, and we earned an additional **12 bonus points** out of 15 for design quality, functionality, and code modularity.
 
----
 
-## 📁 Repository Structure
