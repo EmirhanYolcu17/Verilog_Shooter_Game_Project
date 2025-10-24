@@ -24,7 +24,7 @@ The design consists of multiple Verilog modules, each responsible for a distinct
 - **Mode Selection Logic:** Uses FPGA switches to change firing modes in real-time  
 
 <div align="center">
-  <img src="block_diagram.png" alt="Overall module structure" width="600">
+  <img src="block_diagram.jpg" alt="Overall module structure" width="600">
   <p><em>Figure 1. Overall FPGA-based shooter system architecture.</em></p>
 </div>
 
@@ -42,7 +42,7 @@ The design consists of multiple Verilog modules, each responsible for a distinct
 - **Game Over:** Triggered when any enemy reaches the center (the player’s spaceship)
 
 <div align="center">
-  <img src="gameplay.png" alt="Gameplay screen" width="600">
+  <img src="gameplay.jpg" alt="Gameplay screen" width="600">
   <p><em>Figure 2. Sample game view on VGA display.</em></p>
 </div>
 
@@ -58,7 +58,7 @@ The design consists of multiple Verilog modules, each responsible for a distinct
 - **Simulation Tool:** Quartus Waveform Simulator  
 
 <div align="center">
-  <img src="waveform.png" alt="Quartus simulation waveform" width="600">
+  <img src="waveform.jpg" alt="Quartus simulation waveform" width="600">
   <p><em>Figure 3. Quartus simulation results validating module timing and VGA sync.</em></p>
 </div>
 
